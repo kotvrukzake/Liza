@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  font-size: 18px;
+  color: #363B42;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 82px;
+  color: #449F9F;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  color: #449F9F;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
+  color: #363B42;
+  margin-bottom: 50px;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: white;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+  background-color: #EAFCFC;
+  padding: 50px 0 50px 0;
+}
+
+.bg {
+  background-color: #EAFCFC;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 500px;
+}
+
+.design-img {
+  width: 230px;
+  float: left;
+  margin-right: 50px;
+}
+
+.development-img {
+  width: 230px;
+  float: right;
+  margin-left: 50px;
+}
+
+.profile-img {
+  margin: 100px 0 30px 0;
+}
+
+.main-subtitle {
+  margin-bottom: 70px;
+}
+
+.hr {
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-width: 10px;
+  width: 100px;
+  color: #D8F0F0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.footer-link {
+  color: #449F9F;
+  padding: 50px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.content-rights {
+  color: #9FD7D7;
+  padding-top: 20px;
+}
+
+.contact-me {
+  text-align: center;
+  width: 50%;
+  margin: 70px auto 150px auto;
+  line-height: 2;
+}
+
+.contact-me-img {
+  width: 230px;
+  margin-bottom: 50px;
+}
+
+.btn {
+  background-color: #B286DD;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+.girl-img {
+  width: 800px;
+}
